@@ -1,0 +1,1 @@
+C:\laragon\bin\php\php-7.3.32-Win32-vc15-x64\php.exe -f "C:\laragon\www\SAP_LISTA_PRECIOS_SCRIPT\index.php"
