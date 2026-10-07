@@ -32,3 +32,8 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 
 xml/*.xml
 pdf/*.pdf
+
+*.XML
+xml/
+sap_import/*.XML
+sap_import/*.xml
